@@ -1,4 +1,4 @@
-Location,Latitude,Longitude,Annual GHI SolarAnywhere v3.2 (kW/m^2),Annual GHI SolarAnywhere v3.3 (kW/m^2),Annual GHI SolarAnywhere v3.4 (kW/m^2),Annual GHI NREL PSM v3 (kW/m^2) API
+Location,Latitude,Longitude,Annual GHI SolarAnywhere v3.2 (kW/m²),Annual GHI SolarAnywhere v3.3 (kW/m²),Annual GHI SolarAnywhere v3.4 (kW/m²),Annual GHI NREL PSM v3 (kW/m²) API
 "AR, Little Rock",34.75,-92.25,1632.596,1613.515,1620.953,1702.896
 "CA, Arcata",40.85,-124.05,1425.166,1404.972,1414.864,1464.97
 "CA, Bakersfield",35.35,-119.05,1967.433,1967.038,2012.353,2025.601
